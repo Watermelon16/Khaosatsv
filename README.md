@@ -13,7 +13,7 @@ streamlit run app.py
 
 - Tài khoản **Admin (test)**: 
   - Username: `admin`
-  - Password: `admin123`
+  - Password: `xxxx`
 - Import file Excel mẫu `sample_students.xlsx` (4 cột: Mã sinh viên, Email, Họ và tên, Điểm thi vấn đáp).
 
 ## Cấu hình Email OTP (mã truy cập 1 lần)
